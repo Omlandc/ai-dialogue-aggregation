@@ -68,6 +68,8 @@
       { uid: generateUid(), key: 'kimi' },
       { uid: generateUid(), key: 'hunyuan' },
       { uid: generateUid(), key: 'baidu' },
+      { uid: generateUid(), key: 'chatglm' },
+      { uid: generateUid(), key: 'tiangong' },
     ];
   }
 
