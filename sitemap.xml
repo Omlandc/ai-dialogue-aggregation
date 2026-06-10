@@ -1,56 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/zh/</loc>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://example.com/zh/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/zh/"/>
+    <loc>https://dualai.vip/zh/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://dualai.vip/zh/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dualai.vip/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dualai.vip/zh/"/>
     <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://example.com/en/</loc>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://example.com/zh/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/zh/"/>
+    <loc>https://dualai.vip/en/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://dualai.vip/zh/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dualai.vip/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dualai.vip/zh/"/>
     <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://example.com/ja/</loc>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://example.com/zh/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/zh/"/>
+    <loc>https://dualai.vip/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://dualai.vip/zh/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dualai.vip/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dualai.vip/zh/"/>
     <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://example.com/zh/privacy.html</loc>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://example.com/zh/privacy.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/privacy.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/zh/privacy.html"/>
+    <loc>https://dualai.vip/zh/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://dualai.vip/zh/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dualai.vip/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dualai.vip/zh/privacy.html"/>
     <lastmod>2026-06-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://example.com/en/privacy.html</loc>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://example.com/zh/privacy.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/privacy.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/zh/privacy.html"/>
+    <loc>https://dualai.vip/en/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://dualai.vip/zh/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dualai.vip/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dualai.vip/zh/privacy.html"/>
     <lastmod>2026-06-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://example.com/ja/privacy.html</loc>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://example.com/zh/privacy.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/privacy.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/zh/privacy.html"/>
+    <loc>https://dualai.vip/ja/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://dualai.vip/zh/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dualai.vip/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dualai.vip/zh/privacy.html"/>
     <lastmod>2026-06-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
