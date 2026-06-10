@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Dialogue Aggregation</title>
+  <meta name="description" content="Chat with multiple AIs at once. Ask once, get answers from DeepSeek, Doubao, Kimi, MiniMax and more.">
+  <link rel="canonical" href="https://example.com/">
+  <link rel="alternate" hreflang="zh" href="https://example.com/zh/">
+  <link rel="alternate" hreflang="en" href="https://example.com/en/">
+  <link rel="alternate" hreflang="x-default" href="https://example.com/zh/">
+  <script>
+    (function() {
+      var lang = navigator.language || navigator.userLanguage || 'zh';
+      lang = lang.toLowerCase();
+      var target = '/zh/';
+      if (lang.indexOf('en') === 0) target = '/en/';
+      var saved = localStorage.getItem('ai_agg_lang');
+      if (saved) target = saved;
+      var hash = location.hash || '';
+      var q = location.search || '';
+      location.replace(target + q + hash);
+    })();
+  </script>
+</head>
+<body>
+  <p>Redirecting based on your language preference…</p>
+</body>
+</html>
