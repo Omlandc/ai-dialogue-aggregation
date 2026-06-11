@@ -20,15 +20,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://dualai.vip/ja/</loc>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://dualai.vip/zh/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://dualai.vip/en/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://dualai.vip/zh/"/>
-    <lastmod>2026-06-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://dualai.vip/zh/privacy.html</loc>
     <xhtml:link rel="alternate" hreflang="zh" href="https://dualai.vip/zh/privacy.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://dualai.vip/en/privacy.html"/>
@@ -47,12 +38,21 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dualai.vip/ja/privacy.html</loc>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://dualai.vip/zh/privacy.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://dualai.vip/en/privacy.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://dualai.vip/zh/privacy.html"/>
-    <lastmod>2026-06-10</lastmod>
+    <loc>https://dualai.vip/zh/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://dualai.vip/zh/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dualai.vip/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dualai.vip/zh/contact.html"/>
+    <lastmod>2026-06-11</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://dualai.vip/en/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://dualai.vip/zh/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dualai.vip/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dualai.vip/zh/contact.html"/>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
